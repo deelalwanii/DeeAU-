@@ -1,0 +1,2 @@
+# Optional desktop UI dependencies. DeeAU's primary interface is web-based Streamlit.
+PyQt6>=6.7,<7
